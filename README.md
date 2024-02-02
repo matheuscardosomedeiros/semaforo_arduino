@@ -1,2 +1,2 @@
-# semaforo_arduino
+# Automação de Semafóro com Arduino e C#
  
