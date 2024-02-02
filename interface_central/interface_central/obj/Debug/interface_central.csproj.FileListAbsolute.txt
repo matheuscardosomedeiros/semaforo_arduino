@@ -1,0 +1,22 @@
+C:\Users\Matthews\Desktop\Estudos Engenharia\Programação C#\interface_central\interface_central\bin\Debug\interface_central.exe.config
+C:\Users\Matthews\Desktop\Estudos Engenharia\Programação C#\interface_central\interface_central\bin\Debug\interface_central.exe
+C:\Users\Matthews\Desktop\Estudos Engenharia\Programação C#\interface_central\interface_central\bin\Debug\interface_central.pdb
+C:\Users\Matthews\Desktop\Estudos Engenharia\Programação C#\interface_central\interface_central\obj\Debug\interface_central.csproj.AssemblyReference.cache
+C:\Users\Matthews\Desktop\Estudos Engenharia\Programação C#\interface_central\interface_central\obj\Debug\interface_central.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matthews\Desktop\Estudos Engenharia\Programação C#\interface_central\interface_central\obj\Debug\interface_central.Form1.resources
+C:\Users\Matthews\Desktop\Estudos Engenharia\Programação C#\interface_central\interface_central\obj\Debug\interface_central.Properties.Resources.resources
+C:\Users\Matthews\Desktop\Estudos Engenharia\Programação C#\interface_central\interface_central\obj\Debug\interface_central.csproj.GenerateResource.cache
+C:\Users\Matthews\Desktop\Estudos Engenharia\Programação C#\interface_central\interface_central\obj\Debug\interface_central.csproj.CoreCompileInputs.cache
+C:\Users\Matthews\Desktop\Estudos Engenharia\Programação C#\interface_central\interface_central\obj\Debug\interface_central.exe
+C:\Users\Matthews\Desktop\Estudos Engenharia\Programação C#\interface_central\interface_central\obj\Debug\interface_central.pdb
+C:\Users\Matthews\Desktop\Programação\mega projeto arduino semaforo\interface_central\interface_central\bin\Debug\interface_central.exe.config
+C:\Users\Matthews\Desktop\Programação\mega projeto arduino semaforo\interface_central\interface_central\bin\Debug\interface_central.exe
+C:\Users\Matthews\Desktop\Programação\mega projeto arduino semaforo\interface_central\interface_central\bin\Debug\interface_central.pdb
+C:\Users\Matthews\Desktop\Programação\mega projeto arduino semaforo\interface_central\interface_central\obj\Debug\interface_central.csproj.AssemblyReference.cache
+C:\Users\Matthews\Desktop\Programação\mega projeto arduino semaforo\interface_central\interface_central\obj\Debug\interface_central.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matthews\Desktop\Programação\mega projeto arduino semaforo\interface_central\interface_central\obj\Debug\interface_central.Form1.resources
+C:\Users\Matthews\Desktop\Programação\mega projeto arduino semaforo\interface_central\interface_central\obj\Debug\interface_central.Properties.Resources.resources
+C:\Users\Matthews\Desktop\Programação\mega projeto arduino semaforo\interface_central\interface_central\obj\Debug\interface_central.csproj.GenerateResource.cache
+C:\Users\Matthews\Desktop\Programação\mega projeto arduino semaforo\interface_central\interface_central\obj\Debug\interface_central.csproj.CoreCompileInputs.cache
+C:\Users\Matthews\Desktop\Programação\mega projeto arduino semaforo\interface_central\interface_central\obj\Debug\interface_central.exe
+C:\Users\Matthews\Desktop\Programação\mega projeto arduino semaforo\interface_central\interface_central\obj\Debug\interface_central.pdb
